@@ -4,29 +4,10 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "csp_豆瓣",
-      "name": "自用💢甲辰年(龙)叁伍",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽┃玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
       "key": "Xinsj",
       "name": "👓┃视觉┃直连",
       "type": 3,
-      "api": "csp_Xinsj",
+      "api": "https://www.hdmyy.com/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -36,7 +17,7 @@
       "key": "奈飞工厂",
       "name": "🔔┃奈飞工厂┃直连",
       "type": 3,
-      "api": "csp_Nf",
+      "api": "https://www.netflixgc.com/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -46,7 +27,7 @@
       "key": "Czsapp",
       "name": "📔┃厂长┃直连",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "https://www.czzy66.com/",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
