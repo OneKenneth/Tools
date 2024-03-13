@@ -200,16 +200,6 @@
       "ext": "https://www.hdmyy.com/"
     },
     {
-      "key": "奈飞工厂",
-      "name": "♥┃奈飞工厂┃直连",
-      "type": 3,
-      "api": "csp_Nf",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.netflixgc.com/"
-    },
-    {
       "key": "追剧",
       "name": "💥追剧┃App",
       "type": 3,
