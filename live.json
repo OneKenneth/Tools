@@ -1,7 +1,7 @@
 {
     "lives": [
         {
-            "name": "liveShow•ipv4",
+            "name": "liveShow",
             "type": 0,
             "url": "https://raw.githubusercontent.com/OneKenneth/Tools/refs/heads/main/liveShow.txt",
             "playerType": 2,
