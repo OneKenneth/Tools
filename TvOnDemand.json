@@ -1830,16 +1830,10 @@
                 }
             }
         },
-        {
+         {
             "name": "线路4",
             "type": 0,
-            "url": "https://rdfplayer.mrgaocloud.com/player/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referrer":"M2UwOGpKSU91T25JSFY5ZFBEYnpwdERvaWlzLTlVMmhTdS1Edkw2cnM1bHVydy0telhQTGNiWVJrVzdUTzdlMlA2bHF4NTl4UnRBRkdLb0JDeGhvc0ROcXc2QkJFNkRidHQ5RkZTNDJtRXVWaHR0enhtZ2dUdUx5RUhCU0ZxYUR0S1N2X0ZmOHBtTlBFblZTeGJRU0lPMFAyMlZfR2pWd1NpX28yMS1ISS1aaE1fNWtEZVdpRW5FQ2ZsejRpY09ScktQOWlhVUtWczItVUZ5d0ZsODdHR3Z3NnFFMVlB"
-                }
-            }
+            "url": "https://www.playm3u8.cn/jiexi.php?url="
         },
         {
             "name": "线路5",
