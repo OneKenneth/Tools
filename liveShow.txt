@@ -209,9 +209,6 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 CCTV风云足球,http://111.165.0.98:8888/udp/225.1.2.168:5002
 卡酷少儿,http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8
-CHC动作电影,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=f12ac0afc8e35228503f1f24320e96da&mdspid=&spid=699004&netType=0&sid=5500554795&pid=2028600738&timestamp=20250505140040&Channel_ID=0116_2604032000-99000-200300020100001&ProgramID=644368714&ParentNodeID=-99&assertID=5500554795&client_ip=183.94.29.145&SecurityKey=20250505140040&promotionId=&mvid=5102072875&mcid=500020&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1648791909&jmhm=f12ac0afc8e35228503f1f24320e96da&videocodec=h264&bean=mgspios&tid=ios&conFee=1&mtv_session=7a0a28489abc98f38a748ff8648bb7e0&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2f6e925aa9ae2094e3f78ee49f0301d6
 中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
 影视好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
