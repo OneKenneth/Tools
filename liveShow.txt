@@ -1,5 +1,6 @@
 CCTV,#genre#
 CCTV1,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 CCTV2,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
@@ -24,22 +25,27 @@ CCTV-4K,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/i
 广东卫视4K超高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 北京卫视4K超高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
 北京卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+北京卫视,http://1.180.2.93:9901/tsfile/live/0122_1.m3u8
 湖南卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
 江苏卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
 东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
 东南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
 浙江卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
 湖北卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+湖北卫视,http://1.180.2.93:9901/tsfile/live/0132_1.m3u8
 天津卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
 山东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
 辽宁卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8
 安徽卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
 黑龙江卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+黑龙江卫视,http://1.180.2.93:9901/tsfile/live/0143_1.m3u8
 贵州卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
 东南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
 四川卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
 重庆卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
 江西卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+江西卫视,http://1.180.2.93:9901/tsfile/live/0138_1.m3u8
 广东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
 广东卫视4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 深圳卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
@@ -49,6 +55,7 @@ CCTV-4K,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/i
 兵团卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u8
 吉林卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
 广西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
+广西卫视,http://1.180.2.93:9901/tsfile/live/0113_1.m3u8
 陕西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
 山西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
 青海卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
@@ -68,4 +75,5 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8#http://113
 睛彩竞技,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
 快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+
 
