@@ -110,7 +110,7 @@ CCTV14少儿,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225
 新动漫,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
 哈哈炫动,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
 精品,#genre#
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
+CHC动作电影,http://113.195.172.192:808/hls/112/index.m3u8
 CHC家庭影院,https://migu.188766.xyz/?migutoken=19a8ee05e00e1ed0c4f62c2e9f7e5b37&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
 CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC影迷电影,https://migu.188766.xyz/?migutoken=d0d61e13ca14b386e959031799788edb&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
@@ -120,6 +120,7 @@ CGTV,http://113.195.172.192:808/hls/114/index.m3u8
 睛彩竞技,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
 睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
 快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+
 
 
 
