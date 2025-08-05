@@ -5,6 +5,7 @@ CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV4中文国际,http://t.061899.xyz/tl/tl.php?id=cctv4
 CCTV5体育,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV5+体育赛事,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV6电影,http://go.bkpcp.top/mg/cctv6
 CCTV6电影,http://t.061899.xyz/tl/tl.php?id=cctv6
 CCTV7国防军事,http://t.061899.xyz/tl/tl.php?id=cctv7
 CCTV8电视剧,http://t.061899.xyz/tl/tl.php?id=cctv8
@@ -72,3 +73,4 @@ TVB千禧经典,http://t.061899.xyz/tl/168.php?id=tvbqxjd
 华视,http://t.061899.xyz/tl/js/tw.php?id=hdhs 
 台视新闻,http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
 TVBS欢乐,http://t.061899.xyz/tl/168.php?id=tvbshltbf
+
