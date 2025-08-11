@@ -40,6 +40,15 @@ CCTV17,http://49.235.65.250:600/miguHD.php?id=CCTV17
 江西卫视,http://1.180.2.93:9901/tsfile/live/0138_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 广西卫视,http://1.180.2.93:9901/tsfile/live/0113_1.m3u8
+江苏卫视,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsws
+江苏新闻,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsxw
+江苏国际,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsgj
+江苏城市,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jscs
+江苏综艺,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jszy
+江苏教育,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsjy
+江苏影视,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsys
+江苏体育,http://49.235.65.250:600/jiangsu/jiangsu.php?id=jsty
+江苏卡通,http://49.235.65.250:600/jiangsu/jiangsu.php?id=ymkt
 
 
 
@@ -49,6 +58,7 @@ CCTV14少儿,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225
 CHC动作电影,http://113.195.172.192:808/hls/112/index.m3u8
 CGTV,http://113.195.172.192:808/hls/114/index.m3u8
 江西影视,http://113.195.172.192:808/hls/4/index.m3u8
+
 
 
 
