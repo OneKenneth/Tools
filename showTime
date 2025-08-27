@@ -1,7 +1,8 @@
 CCTV,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV3,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c6690&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20250827214533&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=111.60.134.88&SecurityKey=20250827214533&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=75efdc0e480fe841ce47f32b8ec63822
+CCTV3,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c7758&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20250827214356&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=111.60.134.88&SecurityKey=20250827214356&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=79556b37966ff8c1caec4057cf6f1e60
 CCTV4,http://go.bkpcp.top/mg/cctv4
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5+,http://go.bkpcp.top/mg/cctv5p
