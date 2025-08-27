@@ -6,7 +6,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/OneKenneth/Tools/refs/heads/main/showTime",
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://isus.cc/share/logo/{name}.png"
+            "logo": "https://gcore.jsdelivr.net/gh/fanmingming/live/tv/{name}.png"
         }
     ],
     "doh": [
