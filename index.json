@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/OneKenneth/Tools/raw/refs/heads/main/custom_spider.jar;md5;4f2c6b6667728dec77aa7670c73d0f6b",
+  "spider": "https://mirror.ghproxy.com/https://github.com/OneKenneth/Tools/raw/refs/heads/main/custom_spider.jar;md5;4f2c6b6667728dec77aa7670c73d0f6b",
   "lives": [
     {
       "name": "直播ipv6",
