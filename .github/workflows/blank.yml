@@ -22,7 +22,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -sL "https://gitee.com/lzxw66/lzxw9/raw/master/Ace" \
-          | jq 'del(.lives, .ijk)' \
+          | jq 'if has("spider") and (.spider | type == "string") then
+          .spider |= sub("^\\./"; "https://gitee.com/lzxw66/lzxw9/raw/master/") else . end | del(.lives,.ijk)' \
           > data.cleaned.json
 
       - name: Commit and push
