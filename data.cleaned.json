@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lzxw66/lzxw9/raw/master/zc0326.png",
+  "spider": "https://gitee.com/lzxw66/lzxw9/raw/master/bzc0326.png",
   "wallpaper": "https://t.alcy.cc/pc",
   "logo": "https://img.sobot.com/56b093dec73c42dca06a96734ffa6258/chatres/56b093dec73c42dca06a96734ffa6258/msg/20241204/a1563905111d66f5033927df2f544f83/877590248a3e4fad90fb5f9faa52e70f.gif",
   "warningText": "资源来自网络，无任何盈利纯学习技术！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -103,18 +103,6 @@
       }
     },
     {
-      "key": "米饭动漫",
-      "name": "🍚米饭动漫✨资源秒播",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_lzxw",
-      "ext": {
-        "url": "https://get.mymifun.com",
-        "dataKey": "GETMIFUNGEIMIFUN",
-        "dataIv": "GETMIFUNGEIMIFUN"
-      }
-    },
-    {
       "key": "秒看",
       "name": "🎦秒看4K✨资源秒播",
       "type": 3,
@@ -153,12 +141,6 @@
       }
     },
     {
-      "key": "yingtan",
-      "name": "🎬影探4K✨资源秒播",
-      "type": 4,
-      "api": "https://catbox.n13.club/18/影探影视.php"
-    },
-    {
       "key": "影探",
       "name": "🤠臻彩4K✨资源秒播",
       "type": 3,
@@ -174,15 +156,6 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "林中小屋",
-      "name": "🏠林中小屋✨蓝光秒播",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
     {
       "key": "热播影视",
@@ -263,12 +236,6 @@
       "name": " 🦊茶杯狐✨蓝光资源",
       "type": 3,
       "api": "./js/茶杯狐.js"
-    },
-    {
-      "key": "恋鱼影视",
-      "name": "🐟恋鱼影视✨资源秒播",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/lianyu.php"
     },
     {
       "key": "金牌影视",
@@ -360,20 +327,6 @@
       }
     },
     {
-      "key": "仓鼠",
-      "name": "🐹仓鼠影视✨资源秒播",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_lzxw2",
-      "ext": {
-        "url": "https://hk440cms.cs4k.top",
-        "dataKey": "fL7sY4zN4kB3pG4p",
-        "dataIv": "fL7sY4zN4kB3pG4p",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "小猪",
       "name": "🐷小猪视频✨资源秒播",
       "type": 3,
@@ -417,22 +370,6 @@
         "综艺",
         "动漫"
       ]
-    },
-    {
-      "key": "云云",
-      "name": "☁️小云影视✨蓝光秒播",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_lzxw2",
-      "ext": {
-        "url": "",
-        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
-        "dataKey": "staraugust123456",
-        "dataIv": "staraugust123456",
-        "deviceId": "",
-        "version": "120",
-        "ua": ""
-      }
     },
     {
       "key": "瓜子影视",
