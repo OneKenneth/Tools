@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lzxw66/lzxw9/raw/master/zc0326.png",
+  "spider": "https://gitee.com/lzxw66/lzxw9/raw/master/bzc0326.png",
   "wallpaper": "https://t.alcy.cc/pc",
   "logo": "https://img.sobot.com/56b093dec73c42dca06a96734ffa6258/chatres/56b093dec73c42dca06a96734ffa6258/msg/20241204/a1563905111d66f5033927df2f544f83/877590248a3e4fad90fb5f9faa52e70f.gif",
   "warningText": "资源来自网络，无任何盈利纯学习技术！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -9,7 +9,6 @@
       "name": "🏡豆瓣丨推荐",
       "type": 3,
       "api": "csp_Douban",
-      "indexs": 1,
       "searchable": 0
     },
     {
@@ -117,6 +116,20 @@
       }
     },
     {
+      "key": "顾我",
+      "name": "😍顾我4K✨资源秒播",
+      "type": 3,
+      "api": "csp_lzxw2",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://117.50.204.35:8090",
+        "dataKey": "ca94b06ca3c7d80e",
+        "dataIv": "ca94b06ca3c7d80e",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "小羊",
       "name": "🐏小羊4K✨资源秒播",
       "type": 3,
@@ -128,27 +141,50 @@
       }
     },
     {
-      "key": "帧不戳",
-      "name": "🎬帧不戳4K✨资源秒播",
+      "key": "极影",
+      "name": "🎬极影4K✨资源秒播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://101.201.171.207:802/api.php/app/"
+    },
+    {
+      "key": "晓米",
+      "name": "👊🏻晓米视频✨资源秒播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.170.58.23:802/api.php/app/"
+    },
+    {
+      "key": "云朵",
+      "name": "☁️云朵4K✨资源秒播",
+      "type": 3,
+      "api": "csp_lzxw",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://yd4kcms.yd4k.top",
+        "dataKey": "Tpmm9FD99lJ8Dexa",
+        "dataIv": "Tpmm9FD99lJ8Dexa"
+      }
+    },
+    {
+      "key": "星空",
+      "name": "🌌星空4K✨资源秒播",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "api": "csp_lzxw",
       "ext": {
-        "url": "https://zbc4kmcs.zbc4k.app",
-        "dataKey": "vE4kR7cF6jS6jH7a",
-        "dataIv": "vE4kR7cF6jS6jH7a"
+        "url": "http://xk7.xkgzs.xyz",
+        "dataKey": "107jkcdncofcdkjk",
+        "dataIv": "107jkcdncofcdkjk"
       }
-    },
-    {
-      "key": "影探",
-      "name": "🤠臻彩4K✨资源秒播",
-      "type": 3,
-      "api": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/yingtan.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Wwys",
@@ -226,48 +262,11 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "🪐星辰影院",
-      "name": "🪐星辰影院✨蓝光资源",
-      "type": 3,
-      "api": "./js/星辰影院.js"
-    },
-    {
-      "key": "茶杯狐",
-      "name": " 🦊茶杯狐✨蓝光资源",
-      "type": 3,
-      "api": "./js/茶杯狐.js"
-    },
-    {
       "key": "金牌影视",
       "name": "🥇金牌影视✨蓝光秒播",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "数字",
-      "name": "🎲代号9527✨蓝光秒播",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_lzxw",
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa"
-      }
-    },
-    {
-      "key": "黑猫",
-      "name": "🐱黑猫影视✨资源秒播",
-      "type": 3,
-      "api": "csp_lzxw",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa"
-      }
     },
     {
       "key": "老鹰",
@@ -284,66 +283,8 @@
       }
     },
     {
-      "key": "蓝鹰",
-      "name": "🦅蓝鹰影视✨资源秒播",
-      "type": 3,
-      "api": "csp_lzxw2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "init": "initV120",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "王子",
-      "name": "🤴白马王子✨蓝光秒播",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_lzxw",
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "key": "爱盈",
-      "name": "🚗奇迹影视✨蓝光秒播",
-      "type": 3,
-      "api": "csp_lzxw2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
-        "dataKey": "sjvlwnhk6h9znl61",
-        "dataIv": "sjvlwnhk6h9znl61",
-        "version": "305",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "小猪",
-      "name": "🐷小猪视频✨资源秒播",
-      "type": 3,
-      "api": "csp_lzxw2",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt",
-        "dataKey": "j8sr6d93yp49db3p",
-        "dataIv": "j8sr6d93yp49db3p",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "缘梦",
-      "name": "⭐谁有梦想✨蓝光资源",
+      "name": "⭐梦想4K✨蓝光资源",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -379,28 +320,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "4Kvm影视",
-      "name": "👿vm影视✨蓝光秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/4kvm.json"
-    },
-    {
-      "key": "🅱️哔哩视频",
-      "name": "🅱️哔哩影视✨哔哩合集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./js/哔哩视频.js"
     },
     {
       "key": "💕新腾讯",
@@ -859,6 +778,26 @@
       }
     },
     {
+      "key": "919体育",
+      "name": "🏀99体育✨篮球足球",
+      "type": 3,
+      "api": "csp_919Tiyu",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "世界听书",
+      "name": "📖世界听书✨在线听书",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "哔哩听书",
       "name": "🅱️哔哩听书✨b站资源",
       "type": 3,
@@ -877,7 +816,7 @@
     },
     {
       "key": "九月听书",
-      "name": "🤪九月听书✨免扫码✅",
+      "name": "🤪九月听书✨在线听书",
       "type": 3,
       "api": "./py/九月听书.py"
     },
@@ -910,18 +849,6 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "啊哈DJ",
-      "name": "🎶啊哈DJ✨歌曲串烧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/aha.php"
-    },
-    {
-      "key": "悠悠DJ",
-      "name": "🎶悠悠DJ✨歌曲串烧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/djuu.php"
     },
     {
       "key": "梨园春",
@@ -1169,8 +1096,10 @@
       "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
+        "8.8.8.8",
         "8.8.4.4",
-        "8.8.8.8"
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
       ]
     },
     {
@@ -1185,10 +1114,12 @@
     },
     {
       "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
+      "url": "https://dns.adguard-dns.com/dns-query",
       "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
+        "94.140.14.14",
+        "94.140.15.15",
+        "2a10:50c0::ad1:ff",
+        "2a10:50c0::ad2:ff"
       ]
     },
     {
@@ -1196,15 +1127,49 @@
       "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
         "84.200.69.80",
-        "84.200.70.40"
+        "84.200.70.40",
+        "2001:1608:10:25::1c04:b12f",
+        "2001:1608:10:25::9249:d69b"
       ]
     },
     {
       "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-query",
       "ips": [
         "9.9.9.9",
-        "149.112.112.112"
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ]
+    },
+    {
+      "name": "Tencent腾讯",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "1.12.12.12",
+        "120.53.53.53",
+        "2402:4e00::",
+        "2402:4e00:1::"
+      ]
+    },
+    {
+      "name": "阿里DNS",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ]
+    },
+    {
+      "name": "360DNS",
+      "url": "https://doh.360.cn/dns-query",
+      "ips": [
+        "101.226.4.6",
+        "218.30.118.6",
+        "123.125.81.6",
+        "140.207.198.6"
       ]
     }
   ],
