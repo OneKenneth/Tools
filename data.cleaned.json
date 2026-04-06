@@ -1,12 +1,12 @@
 {
   "spider": "https://gitee.com/lzxw66/lzxw9/raw/master/bzc0405.png",
   "wallpaper": "https://t.alcy.cc/pc",
-  "logo": "https://img.sobot.com/56b093dec73c42dca06a96734ffa6258/chatres/56b093dec73c42dca06a96734ffa6258/msg/20241204/a1563905111d66f5033927df2f544f83/877590248a3e4fad90fb5f9faa52e70f.gif",
+  "logo": "https://img.meituan.net/portalweb/2d4b59b4fe3ab8c5fbe1150a68f52448586638.gif",
   "warningText": "资源来自网络，无任何盈利纯学习技术！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
       "key": "lz豆瓣",
-      "name": "🏡豆瓣丨推荐",
+      "name": "🏡豆瓣热门丨影视推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -141,16 +141,6 @@
       }
     },
     {
-      "key": "极影",
-      "name": "🎬极影4K✨资源秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://101.201.171.207:802/api.php/app/"
-    },
-    {
       "key": "晓米",
       "name": "👊🏻晓米视频✨资源秒播",
       "type": 3,
@@ -159,19 +149,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://111.170.58.23:802/api.php/app/"
-    },
-    {
-      "key": "云朵",
-      "name": "☁️云朵4K✨资源秒播",
-      "type": 3,
-      "api": "csp_lzxw",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://yd4kcms.yd4k.top",
-        "dataKey": "Tpmm9FD99lJ8Dexa",
-        "dataIv": "Tpmm9FD99lJ8Dexa"
-      }
     },
     {
       "key": "星空",
@@ -692,12 +669,6 @@
       "filterable": 1
     },
     {
-      "key": "星阁短剧",
-      "name": "⭐星阁短剧✨全网短剧",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/xingzhige.php"
-    },
-    {
       "key": "番薯动漫",
       "name": "🍠番薯动漫✨资源秒播",
       "type": 3,
@@ -994,24 +965,6 @@
       "changeable": 0
     }
   ],
-  "hosts": [
-    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
-    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
-    "cdn9.163189.xyz=gcore.jsdelivr.net",
-    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
-    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com",
-    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
-    "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
-    "iptv.huuc.edu.cn=huucv6.188766.xyz"
-  ],
-  "headers": [
-    {
-      "host": "hlsztemgsplive.miguvideo.com",
-      "header": {
-        "User-Agent": "bingcha/1.1 (mianfeifenxiang)"
-      }
-    }
-  ],
   "ads": [
     "static-mozai.4gtv.tv"
   ],
@@ -1020,43 +973,6 @@
       "name": "😁解析😁",
       "type": 1,
       "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
-    },
-    {
-      "name": "🥭解析🥭",
-      "type": 1,
-      "url": "http://mg.itufm.top/mg.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
     {
       "name": "🦐虾米🍚",
@@ -1151,7 +1067,7 @@
     ".*nivod.*",
     ".*ulivetv.*"
   ],
-  "notice": "⭐公众号:林中的小屋⭐",
+  "notice": "⭐加载成功⭐",
   "rules": [
     {
       "name": "cl",
