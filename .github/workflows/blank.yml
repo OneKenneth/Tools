@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -sL "https://gitee.com/lzxw66/lzxw9/raw/master/Ace" \
+          curl -sL "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json" \
           | jq 'if has("spider") and (.spider | type == "string") then
           .spider |= sub("^\\./"; "https://gitee.com/lzxw66/lzxw9/raw/master/") else . end | del(.lives,.ijk)' \
           > data.cleaned.json
