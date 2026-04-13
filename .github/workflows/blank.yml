@@ -23,7 +23,7 @@ jobs:
         run: |
           curl -sL "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json" \
           | jq 'if has("spider") and (.spider | type == "string") then
-          .spider |= sub("^\\./"; "https://gitee.com/lzxw66/lzxw9/raw/master/") else . end | del(.lives,.ijk)' \
+          .spider |= sub("^\\./"; "https://gitee.com/lzxw9527/jiuyue/raw/master/") else . end | del(.lives,.ijk)' \
           > data.cleaned.json
 
       - name: Commit and push
